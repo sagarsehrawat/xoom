@@ -5,7 +5,7 @@ import Navbar from '@/components/Navbar';
 import Sidebar from '@/components/Sidebar';
 
 export const metadata: Metadata = {
-  title: 'Xoom',
+  title: 'Connectly',
   description: 'A workspace for your team, powered by Stream Chat and Clerk.',
 };
 
